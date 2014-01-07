@@ -1,4 +1,4 @@
-puts "Type string to reverse"
+puts "Type in a string to be reversed"
 string = gets.chomp
 i = 0
 while i < string.length/2
