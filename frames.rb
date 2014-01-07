@@ -1,5 +1,7 @@
 puts "Type in what you want to frame"
 
+#yutaka wuz here!
+
 #get user's input
 input = gets.chomp
 
